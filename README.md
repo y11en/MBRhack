@@ -7,5 +7,6 @@
 * 请参考示意图
 * 无视360safe
 * http://bbs.pediy.com/showthread.php?t=204938 原作者：lxsgbin
+* 演示视频：http://www.acfun.tv/v/ac2286562
 * 编译测试 by Eric21
 * http://www.eric21.com

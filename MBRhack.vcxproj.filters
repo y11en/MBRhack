@@ -20,7 +20,21 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="res\win7_x64.asm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="res\win8_x64.asm">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\win7_x64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="res\win8_x64.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
